@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -59,4 +59,4 @@
   placeholder="Введи 6 символов"
 />
 </body>
-</html>
+</html> -->
